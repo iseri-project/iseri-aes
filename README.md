@@ -1,2 +1,2 @@
 # iseri-aes
-ABAP Utilities for AES/Rijndael encryption, decryption
+Cross Platform AES Encryption
